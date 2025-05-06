@@ -26,12 +26,6 @@ The research is focused on:
 - PowerPoint
 - Statistical formulas and testing techniques
 
-## Files
-
-- `presentation.pptx` – Final presentation with analysis
-- `data.xlsx` (optional) – Data used for analysis (if available)
-- `report.pdf` – (optional) Summary or academic writeup
-
 ## Key Findings
 
 - Emotional appeals influence impulsive buying
